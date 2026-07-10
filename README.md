@@ -1,10 +1,8 @@
-# Data-Analys-Dashboard
-Análisis y dashboard en Excel (tablas dinámicas + segmentadores) sobre ventas online de GYM Barracuda. Compara canal propio vs. afiliados/influencers para identificar por qué suben las devoluciones y cuantificar su impacto en ganancias.
 # 📊 Análisis de Ventas y Devoluciones – GYM Barracuda
 
 Dashboard interactivo en Excel para analizar el desempeño de ventas de una empresa de ropa deportiva en línea, con el objetivo de identificar la causa raíz del aumento de devoluciones a lo largo del año y su impacto financiero.
 
-![Dashboard](assets/dashboard_preview.png)
+![Dashboard](https://github.com/GianLRG/Data-Analys-Dashboard/blob/main/Dashboard.jpg)
 
 ## 📌 Contexto
 
