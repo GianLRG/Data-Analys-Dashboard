@@ -2,8 +2,6 @@
 
 Dashboard interactivo en Excel para analizar el desempeño de ventas de una empresa de ropa deportiva en línea, con el objetivo de identificar la causa raíz del aumento de devoluciones a lo largo del año y su impacto financiero.
 
-![Dashboard](https://github.com/GianLRG/Data-Analys-Dashboard/blob/main/Dashboard.jpg)
-
 ## 📌 Contexto
 
 GYM Barracuda vende a través de dos canales:
